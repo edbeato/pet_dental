@@ -8,7 +8,7 @@
 
 [Pet Dental: Part 1 - Data]()
 
-[Pet Dental: Part 2 - Demand Plan]()
+[Pet Dental: Part 2 - Demand Plan](https://github.com/edbeato/pet_dental/blob/7e92688e12eb9b81457844483af80d628d945078/Demand%20Plan%20-%20Part%202.xlsx)
 
 This case is designed to follow the workflow of a dmenad planner for a pet company. The study was broken down into two parts. 
 
