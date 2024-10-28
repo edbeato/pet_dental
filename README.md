@@ -4,6 +4,12 @@
 
 ## Summary
 
+[Pet Dental: Part 1 - Presentation](https://github.com/edbeato/pet_dental/blob/9ae16137be767b1db781a9bb5335b0e68204c8e4/Pet%20Dental%20-%20Part%201.pptx)
+
+[Pet Dental: Part 1 - Data]()
+
+[Pet Dental: Part 2 - Demand Plan]()
+
 This case is designed to follow the workflow of a dmenad planner for a pet company. The study was broken down into two parts. 
 
 *Part 1*
