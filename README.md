@@ -6,7 +6,7 @@
 
 [Pet Dental: Part 1 - Presentation](https://github.com/edbeato/pet_dental/blob/9ae16137be767b1db781a9bb5335b0e68204c8e4/Pet%20Dental%20-%20Part%201.pptx)
 
-[Pet Dental: Part 1 - Data]()
+[Pet Dental: Part 1 - Data](https://docs.google.com/spreadsheets/d/1vOWdh54wDbsVY0UnRIOgoajBiiNqye76/edit?usp=sharing&ouid=107279521568011125172&rtpof=true&sd=true)
 
 [Pet Dental: Part 2 - Demand Plan](https://github.com/edbeato/pet_dental/blob/7e92688e12eb9b81457844483af80d628d945078/Demand%20Plan%20-%20Part%202.xlsx)
 
